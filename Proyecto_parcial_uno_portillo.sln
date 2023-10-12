@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_parcial_uno_portillo", "Proyecto_parcial_uno_portillo\Proyecto_parcial_uno_portillo.csproj", "{0BC734DA-FAE5-4355-B943-32FA23FCA734}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador_proyecto", "Instalador_proyecto\Instalador_proyecto.vdproj", "{E4CB439C-1658-4D3A-A5A4-DEDFF7B6739E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BC734DA-FAE5-4355-B943-32FA23FCA734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC734DA-FAE5-4355-B943-32FA23FCA734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC734DA-FAE5-4355-B943-32FA23FCA734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC734DA-FAE5-4355-B943-32FA23FCA734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CB439C-1658-4D3A-A5A4-DEDFF7B6739E}.Debug|Any CPU.ActiveCfg = Debug
+		{E4CB439C-1658-4D3A-A5A4-DEDFF7B6739E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBD8592E-818F-4D3A-BD7B-A41E78EF16A0}
+	EndGlobalSection
+EndGlobal
